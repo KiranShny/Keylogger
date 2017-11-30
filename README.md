@@ -1,2 +1,3 @@
 # Keylogger
-sg
+Designed using c++
+for windows systems.
